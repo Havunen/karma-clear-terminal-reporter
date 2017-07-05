@@ -1,0 +1,28 @@
+{
+  "name": "karma-clear-terminal-reporter",
+  "version": "1.0.0",
+  "description": "A Karma plugin. Clears terminal before each test run including scroll history.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Havunen/karma-terminal-clear-reporter.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-reporter",
+    "clear-screen",
+    "clear-terminal"
+  ],
+  "author": "Sampo Kivistö",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "karma": ">=1"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  }
+}

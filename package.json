@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Havunen/karma-terminal-clear-reporter.git"
+    "url": "git://github.com/Havunen/karma-clear-terminal-reporter.git"
   },
   "keywords": [
     "karma-plugin",
